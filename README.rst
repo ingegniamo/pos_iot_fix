@@ -1,24 +1,8 @@
-Title
+pos iot fix error
 ===============================
-Description
-
-Configuration
-=============
-
-Usage
-=====
-Descriprion usage
-
-
-Credits
-=======
-
-Authors
-~~~~~~~
-
-* STeSI s.r.l
+Fix errore nel caso la bilancia non è disponibile
 
 Contributors
 ~~~~~~~~~~~~
 
-* Moccia Francesco <moccia.f@stesi.eu>
+* Michele <dicroce.m@stesi.eu>
